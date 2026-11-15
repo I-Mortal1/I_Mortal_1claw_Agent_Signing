@@ -1,0 +1,78 @@
+{
+  "title": "I_Mortal public reference manifest",
+  "date": "2026-11-15",
+  "excludes_self": true,
+  "production_accepted": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 111,
+      "sha256": "068681f62d8de9d8c896798f09220d1623b85718e855322b2c2ad69108d7a43d"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 504,
+      "sha256": "327619cd2741a2325f044a35e218b1da2dff638bdb4de5195c829ce555215710"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4133,
+      "sha256": "1426f3602991dbe94e0715a36a42529cbe21744fe9fecd6a17c60b268f0be264"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 517,
+      "sha256": "61279c15fe4aa05f79f33f643a66aab7a72958d160c11e9a3c880374e295aef4"
+    },
+    {
+      "path": "docs/AGENT_SIGNING_METHOD.md",
+      "bytes": 6419,
+      "sha256": "df82ecb74785158851d338dff6c6d3119ca61b6b5743a358b7297e5296619a8d"
+    },
+    {
+      "path": "docs/CODE_PROVENANCE.md",
+      "bytes": 1192,
+      "sha256": "15fd7cdaa908563517bb103e22cf471bf64e30dff2595818bdf339bb12ac8ebf"
+    },
+    {
+      "path": "docs/PROVIDER_DOCUMENTATION.md",
+      "bytes": 1250,
+      "sha256": "60618af309eb048415df2d239aac655862aa7a4da2b03d47ef8fbf0f88736bd0"
+    },
+    {
+      "path": "docs/REMAINING_WORK.md",
+      "bytes": 1533,
+      "sha256": "35425eebf9633bf601a06ce34b2819ffd1521ee9143bb4d33c1c2115d1d6fcbd"
+    },
+    {
+      "path": "docs/VERIFIED_STATUS.md",
+      "bytes": 2411,
+      "sha256": "81891f3481b5dd7d112c48d9ffd8eca59ba25a4c900d32d11c6b34c996c81a71"
+    },
+    {
+      "path": "evidence/verified-status.json",
+      "bytes": 1691,
+      "sha256": "e543f134e69b00d6247fdbca05789ae0c794fd125f417030c8fa698e1908d073"
+    },
+    {
+      "path": "package.json",
+      "bytes": 252,
+      "sha256": "4bbac5879766147ed91c2870f35ba7587a283fb397db27d69c9f56b455c5cc05"
+    },
+    {
+      "path": "src/I_Mortal-evm-signing-envelope.mjs",
+      "bytes": 1801,
+      "sha256": "bb79d2fac1edfedbe250e1b0c0208b86e221a6d3837251010e8b4f4bb288d04a"
+    },
+    {
+      "path": "src/oneclaw-evm-signer.mjs",
+      "bytes": 1700,
+      "sha256": "a795ad82cb7b65bc4bb719753b8322d5f1dea42e59ca1fc1e3fac2adceef2b78"
+    },
+    {
+      "path": "src/treasury-jit-signing.mjs",
+      "bytes": 261,
+      "sha256": "e1c15cd201a6f3900bfdf35cb5e9fba9ff6e4edc9d45bb8dc3dbd78102dff9e1"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "I_Mortal 1claw agent signing verification summary",
+  "review_date": "2026-11-15",
+  "recorded_run_date": "2026-11-14",
+  "results": [
+    {
+      "component": "Legacy adapter retirement",
+      "host": "windows",
+      "passed": 12,
+      "failed": 0,
+      "skipped": 0,
+      "software_fixture_only": true
+    },
+    {
+      "component": "Legacy adapter retirement",
+      "host": "linux",
+      "passed": 12,
+      "failed": 0,
+      "skipped": 0,
+      "software_fixture_only": true
+    },
+    {
+      "component": "Public EVM envelope",
+      "host": "windows",
+      "passed": 20,
+      "failed": 0,
+      "skipped": 0,
+      "software_fixture_only": true
+    },
+    {
+      "component": "Public EVM envelope",
+      "host": "linux",
+      "passed": 20,
+      "failed": 0,
+      "skipped": 0,
+      "software_fixture_only": true
+    },
+    {
+      "component": "Bot command grammar",
+      "host": "windows",
+      "passed": 16,
+      "failed": 0,
+      "skipped": 0,
+      "software_fixture_only": true
+    },
+    {
+      "component": "Bot command grammar",
+      "host": "linux",
+      "passed": 16,
+      "failed": 0,
+      "skipped": 0,
+      "software_fixture_only": true
+    }
+  ],
+  "production_ready": false,
+  "live_signing_enabled": false,
+  "provider_accepted": false,
+  "threshold_accepted": false,
+  "task_key_lifetime_accepted": false,
+  "zk_accepted": false,
+  "cex_enabled": false,
+  "native_acceptance": {
+    "windows": false,
+    "linux": false,
+    "android": false,
+    "ios": false,
+    "macos": false,
+    "browser": false
+  },
+  "publication_runtime_tests_executed": false
+}
